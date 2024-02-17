@@ -1,4 +1,4 @@
-# Data-Warehouse-Project
+# Data-Warehouse-Modernization
 ## Project Summary:
 The primary objective of this project is to create a concept data warehouse using dimensional modelling techniques. Identify the key stakeholders and business requirements for the same. Based on these requirements develop a design schema for the data warehouse. Create the warehouse using any ETL tools. Produce reports in support of the requirements using SSRS and R. Develop an XML schema based on the data warehouse. Implement a part of the data warehouse as graph database using Neo4j technologies.
 
